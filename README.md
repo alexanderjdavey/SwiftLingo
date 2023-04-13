@@ -11,3 +11,6 @@ To use SwiftLingo, simply enter the text you want to translate into the input fi
 3. Enable Developer mode by clicking the toggle switch in the top right corner.
 4. Click the "Load unpacked" button and select the directory where you cloned the repository.
 5. SwiftLingo should now be installed and visible in your Chrome extensions.
+
+### Screenshot
+![image](https://user-images.githubusercontent.com/76870578/231764705-a0f5daa4-773d-41de-8e70-4f9f5e720dc8.png)
